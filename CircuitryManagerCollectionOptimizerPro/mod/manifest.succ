@@ -1,0 +1,8 @@
+ID: ghxx.circuitrymanagercollectionoptimizerpro
+Name: CircuitryManager Collection Optimizer Pro
+Author: GHXX
+Version: 1.0.0
+Priority: 10
+Dependencies:
+    - HarmonyForServers
+    - ServerOnlyMods
