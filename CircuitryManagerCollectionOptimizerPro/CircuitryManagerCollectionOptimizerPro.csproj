@@ -19,9 +19,6 @@
     <Reference Include="LogicAPI">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Logic World\old_0.90\Server\LogicAPI.dll</HintPath>
     </Reference>
-    <Reference Include="LogicAPI.Client">
-      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Logic World\old_0.90\Logic_World_Data\Managed\LogicAPI.Client.dll</HintPath>
-    </Reference>
     <Reference Include="LogicAPI.Server">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Logic World\old_0.90\Server\LogicAPI.Server.dll</HintPath>
     </Reference>
